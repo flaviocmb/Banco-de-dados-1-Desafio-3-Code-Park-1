@@ -10,3 +10,8 @@ De acordo com os comandos aprendidos, programe códigos SQL para criar um banco 
 6. Adicione um atributo endereço do tipo varchar:
 
 Trabalhe esse código em seu IDE, suba ele para sua conta no GitHub e compartilhe o link desse projeto no campo ao lado para que outros desenvolvedores possam analisá-lo.
+
+![Tabela1](./img/Imagem01_Atividade06_BancoDeDadosI.png)
+![Tabela2](./img/Imagem02_Atividade06_BancoDeDadosI.png)
+![Tabela3](./img/Imagem03_Atividade06_BancoDeDadosI.png)
+
